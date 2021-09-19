@@ -1,3 +1,3 @@
 # list-of-cases
-Ежедневник с функциями добавления , удаления и редактирования дел на React js
+A daily planner with the functions of adding, deleting and editing tasks on React js
 ![](/read.png)
